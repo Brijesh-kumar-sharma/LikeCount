@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/firsttaskinjava/app/src/main/res/drawable-v24/ic_baseline_domain_verification_24.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/firsttaskinjava/app/src/main/res/layout/activity_main.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/firsttaskinjava/app/src/main/res/layout/custom_dialog.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/firsttaskinjava/app/src/main/res/layout/ic_baseline_domain_verification_24.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

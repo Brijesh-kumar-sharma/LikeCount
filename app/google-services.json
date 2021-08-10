@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628224820109",
+    "project_id": "firsttaks",
+    "storage_bucket": "firsttaks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628224820109:android:6bc21b8dd8d9c735cab3c4",
+        "android_client_info": {
+          "package_name": "com.example.firsttaskinjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628224820109-oj2au5qqjk29db9b325upo9fv6h9jkf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2AwBv5_jT9Pi0oDakwwhtXi77pDHYYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628224820109-oj2au5qqjk29db9b325upo9fv6h9jkf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
